@@ -73,7 +73,3 @@ In future projects, I would like to improve the following:
 ## Acknowledgments
 
 A big thanks to the **Frontend Mentor** community for their valuable feedback and support during this challenge.
-
----
-
-Cela donne un guide structuré et clair pour ceux qui veulent comprendre ton projet et voir comment tu l'as développé.
